@@ -8,7 +8,7 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>Admin IT-Shop</title>
+    <title>Admin Fasshion-Shop</title>
 
     <meta name="description" content="" />
 
@@ -77,17 +77,17 @@
                             <i class="menu-icon tf-icons bx bx-home-circle"></i>
                             <div data-i18n="Analytics">Dashboard</div>
                         </a>
-                    </li>  
-                 
+                    </li>
+
                     <li class="menu-item">
                         <a href="{{ route('pro.index') }}" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-cart-alt"></i>
                             <div data-i18n="Analytics">Product</div>
                         </a>
-                    </li>  
+                    </li>
 
                 </ul>
-                
+
             </aside>
             <!-- / Menu -->
 
@@ -104,11 +104,11 @@
                     </div>
 
                     <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
-                     
-                        Admin IT-Shop 
+
+                        Admin Fasshion-Shop
                         <ul class="navbar-nav flex-row align-items-center ms-auto">
                             <!-- Place this tag where you want the button to render. -->
-    
+
 
                             <!-- User -->
                             <li class="nav-item navbar-dropdown dropdown-user dropdown">
@@ -162,7 +162,7 @@
 
                 <!-- Content wrapper -->
                 <div class="content-wrapper">
-                   
+
                     @yield('content')
 
                 </div>
@@ -179,7 +179,7 @@
                                 <a href="https://pongsawadi.ac.th/psc2019/" target="_blank"
                                     class="footer-link fw-bolder">สาขาเทคโนโลยีสารสนเทศ วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์</a>
                             </div>
-                          
+
                         </div>
                     </footer>
                     <!-- / Footer -->
